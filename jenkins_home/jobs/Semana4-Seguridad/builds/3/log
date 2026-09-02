@@ -1,0 +1,8 @@
+Started by user [8mha:////4Bs0nV+ftVdRHQw5A19AQoJi99cIidn7K5NmoRS9vlXQAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZB/dLi1CL93MSSzOLSxKLUqlwA1tRtVcYAAAA=[0mMatias Suarez M
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Semana4-Seguridad
+[Semana4-Seguridad] $ mvn -f /var/jenkins_home/pom.xml clean package -DskipTests
+POM file /var/jenkins_home/pom.xml specified with the -f/--file command line argument does not exist
+POM file /var/jenkins_home/pom.xml specified with the -f/--file command line argument does not exist
+Build step 'Invoke top-level Maven targets' marked build as failure
+Finished: FAILURE
