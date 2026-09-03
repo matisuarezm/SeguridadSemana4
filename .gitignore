@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Archivos de logs
+*.log
+*.log.*.gz
+
+# Directorios de estado interno de Jenkins y herramientas
+jenkins_home/
+.m2/
+.sonar/
+target/
