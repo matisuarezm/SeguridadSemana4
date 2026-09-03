@@ -9,7 +9,7 @@ import java.util.List;
 @RequestMapping("/appointment")
 public class AppointmentController {
 
-    @Autowired
+    
     private AppointmentService appointmentService;
 
     @GetMapping
